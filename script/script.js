@@ -40,5 +40,5 @@ const collection = [
   
     // ..
   ];
-  
 
+  
